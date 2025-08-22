@@ -76,17 +76,6 @@
 - **Maps:** Google Maps API  
 - **Auth:** JWT / OAuth  
 
----
 
-## 📌 Contribution  
-مرحب بالمساهمة في المشروع! 🎉  
-- اعمل **Fork**  
-- أنشئ **Branch** جديدة للتعديلات  
-- ارفع **Pull Request**  
-
----
-
-## 📄 License  
-MIT License © 2025  
 
 
